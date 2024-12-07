@@ -10,6 +10,10 @@ sudo apt-get install certbot python3-certbot-nginx -y
 echo "3. Creating SSL certificate: ccms-app.whiteneuron.com"
 sudo certbot --nginx -d ccms-app.whiteneuron.com
 
+# Cho phép truy cập từ bên ngoài
+echo "3. Allowing access from outside"
+sudo chmod -R 755 /var/www/ICD-FE-prod/
+
 # Sao chép file cấu hình ngnix vào thư mục cấu hình của ngnix
 echo "4. Copying ngnix configuration file"
 sudo cp nginx.conf /etc/nginx/sites-available/icd-fe
