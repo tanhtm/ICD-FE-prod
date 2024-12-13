@@ -16,7 +16,7 @@ sudo chmod -R 755 /var/www/ICD-FE-prod/
 
 # Sao chép file cấu hình ngnix vào thư mục cấu hình của ngnix
 echo "4. Copying ngnix configuration file"
-sudo cp nginx_kcb.conf /etc/nginx/sites-available/icd-fe-kcb
+sudo cp nginx.conf /etc/nginx/sites-available/icd-fe-kcb
 
 # Tạo symbolic link
 echo "5. Creating symbolic link"
