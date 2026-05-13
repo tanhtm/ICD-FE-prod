@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Trang thông báo 'Có gì mới?' đã ra mắt — Xem toàn bộ cập nhật hệ thống với giao diện trực quan",
+      "timestamp": "2026-05-08 16:30"
+    },
+    {
+      "id": 2,
+      "title": "Chuông thông báo trên header — Theo dõi nhanh các thay đổi mới nhất với badge số lượng chưa đọc",
+      "timestamp": "2026-05-08 16:00"
+    },
+    {
+      "id": 3,
+      "title": "Chatbot ICF chính thức ra mắt — Hỏi đáp nhanh về chức năng và khuyết tật",
+      "timestamp": "2026-05-08 09:00"
+    },
+    {
+      "id": 4,
+      "title": "Hệ thống được nâng cấp lớn — Tốc độ nhanh hơn, ổn định hơn với Angular phiên bản mới nhất",
+      "timestamp": "2026-05-07 14:30"
+    },
+    {
+      "id": 5,
+      "title": "Đăng nhập an toàn hơn với xác thực OAuth — Bảo vệ thông tin bệnh án tốt hơn",
+      "timestamp": "2026-05-07 13:00"
+    },
+    {
+      "id": 6,
+      "title": "Giao diện được thiết kế lại mới — Logo não bộ chuyên nghiệp, sidebar màu tím trực quan hơn",
+      "timestamp": "2026-05-07 11:00"
+    }
+  ]
+}
