@@ -1,6 +1,46 @@
 {
   "data": [
     {
+      "id": 7,
+      "title": "Dual-version ICF tự động chọn chương đầu tiên — Tự động load chương đầu khi mở trang ICF song song",
+      "timestamp": "2026-05-22 16:30"
+    },
+    {
+      "id": 8,
+      "title": "ICF tự động chọn chương đầu tiên — Tự động load chương đầu khi mở trang ICF",
+      "timestamp": "2026-05-22 16:00"
+    },
+    {
+      "id": 9,
+      "title": "Sửa layout dual-version ICF — Căn chỉnh padding/margin đồng bộ với ICD-10/ICD-9",
+      "timestamp": "2026-05-22 14:30"
+    },
+    {
+      "id": 10,
+      "title": "Sửa layout màn hình ICF — Căn chỉnh padding/margin đồng bộ với ICD-10/ICD-9",
+      "timestamp": "2026-05-22 14:00"
+    },
+    {
+      "id": 11,
+      "title": "Ẩn nút cuộn trên trang chatbot — Tắt scroll buttons trên các trang trợ lý ảo",
+      "timestamp": "2026-05-22 13:00"
+    },
+    {
+      "id": 12,
+      "title": "Sửa thanh tìm biến mất trên mobile — Khắc phục lỗi text biến mất khi thu nhỏ màn hình",
+      "timestamp": "2026-05-22 12:30"
+    },
+    {
+      "id": 13,
+      "title": "Responsive thanh tìm kiếm — Tối ưu layout search bar và scroll buttons chỉ hiển thị trên mobile",
+      "timestamp": "2026-05-22 11:00"
+    },
+    {
+      "id": 14,
+      "title": "Sửa layout chatbot mini fullscreen — Khắc phục overlap header và căn chỉnh màn hình mobile",
+      "timestamp": "2026-05-22 10:00"
+    },
+    {
       "id": 1,
       "title": "Trang thông báo 'Có gì mới?' đã ra mắt — Xem toàn bộ cập nhật hệ thống với giao diện trực quan",
       "timestamp": "2026-05-08 16:30"
