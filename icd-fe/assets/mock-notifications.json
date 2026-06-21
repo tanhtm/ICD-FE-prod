@@ -1,19 +1,14 @@
 {
   "data": [
     {
-      "id": 16,
-      "title": "Cập nhật nav icons — Icon sidebar đồng bộ với nội dung và fix lỗi scroll",
-      "timestamp": "2026-06-16 17:44"
+      "id": 26,
+      "title": "Cải thiện giao diện tổng thể — Tiêu đề header tự động, banner Trợ lý AI, menu dễ dùng hơn",
+      "timestamp": "2026-06-21 10:00"
     },
     {
       "id": 17,
-      "title": "ICD-10 TT06/2026/TT-BYT — Hỗ trợ routing chatbot, banner đăng nhập và cải thiện URL parsing",
+      "title": "ICD-10 06/2026/TT-BYT — Chatbot hỗ trợ tra cứu mã mới theo thông tư",
       "timestamp": "2026-06-16 17:31"
-    },
-    {
-      "id": 18,
-      "title": "Đổi tên ICD-10 TT06 thành ICD-10 06/2026/TT-BYT — Fix cache logic getChildrenOfModel",
-      "timestamp": "2026-06-16 12:45"
     },
     {
       "id": 19,
@@ -22,43 +17,13 @@
     },
     {
       "id": 7,
-      "title": "Dual-version ICF tự động chọn chương đầu tiên — Tự động load chương đầu khi mở trang ICF song song",
+      "title": "ICF tự động chọn chương đầu tiên — Tiết kiệm thao tác khi tra cứu",
       "timestamp": "2026-05-22 16:30"
     },
     {
-      "id": 8,
-      "title": "ICF tự động chọn chương đầu tiên — Tự động load chương đầu khi mở trang ICF",
-      "timestamp": "2026-05-22 16:00"
-    },
-    {
-      "id": 9,
-      "title": "Sửa layout dual-version ICF — Căn chỉnh padding/margin đồng bộ với ICD-10/ICD-9",
-      "timestamp": "2026-05-22 14:30"
-    },
-    {
-      "id": 10,
-      "title": "Sửa layout màn hình ICF — Căn chỉnh padding/margin đồng bộ với ICD-10/ICD-9",
-      "timestamp": "2026-05-22 14:00"
-    },
-    {
-      "id": 11,
-      "title": "Ẩn nút cuộn trên trang chatbot — Tắt scroll buttons trên các trang trợ lý ảo",
-      "timestamp": "2026-05-22 13:00"
-    },
-    {
-      "id": 12,
-      "title": "Sửa thanh tìm biến mất trên mobile — Khắc phục lỗi text biến mất khi thu nhỏ màn hình",
-      "timestamp": "2026-05-22 12:30"
-    },
-    {
-      "id": 13,
-      "title": "Responsive thanh tìm kiếm — Tối ưu layout search bar và scroll buttons chỉ hiển thị trên mobile",
-      "timestamp": "2026-05-22 11:00"
-    },
-    {
       "id": 14,
-      "title": "Sửa layout chatbot mini fullscreen — Khắc phục overlap header và căn chỉnh màn hình mobile",
-      "timestamp": "2026-05-22 10:00"
+      "title": "Sửa lỗi hiển thị trên điện thoại — Thanh tìm kiếm, chatbot và nút cuộn được khắc phục",
+      "timestamp": "2026-05-22 14:30"
     },
     {
       "id": 1,
